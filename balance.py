@@ -8,6 +8,7 @@ balance = 500000087467224455665677
 print("----------------------------------")
 print("       WELCOME TO sherus BANK")
 print("----------------------------------")
+print("million quadrillion hatt hatt halwa mullaperiyar dolllar")
 
 # Get client details
 acc = input("Enter your Account Number: ")
@@ -34,5 +35,6 @@ if acc == account_number and pin == pin_number:
 else:
     print("\nInvalid Account Number or PIN.")
     print("Please check your details and try again.")
+    print("irangipoda oole")
 
 print("\nThank you!")
